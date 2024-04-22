@@ -44,7 +44,7 @@ all pass.
 Run the tests with:
 
 ```bash
-dotnet test
+dotnet test EXERCISE_DIRECTORY
 ```
 
 ## Submit Solutions
