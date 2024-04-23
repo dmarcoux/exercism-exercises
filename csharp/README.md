@@ -27,12 +27,30 @@ Be sure to configure the Exercism CLI before proceeding.
 exercism configure --workspace "~/projets/exercism-exercises" --token=MY_API_TOKEN
 ```
 
+## Setup Solution (.sln) File
+
+Each Exercism exercise is a project with its own `.csproj` file. Projects can be
+organized into a solution, which is just another name for a container for one or
+more related projects.
+
+When this repository was set up, a solution (`.sln`) file was created with:
+
+```bash
+dotnet new sln --name exercism-csharp
+```
+
 ## Download Exercises
 
 Each directory contains an exercise which was downloaded with:
 
 ```bash
 exercism download --track=csharp --exercise=NAME
+```
+
+It was then added as a project to the solution with:
+
+```bash
+dotnet sln exercism-csharp.sln add EXERCISE_NAME
 ```
 
 ## How to Test A Solution
