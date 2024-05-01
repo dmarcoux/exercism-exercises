@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeedForSpeed", "need-for-sp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WizardsAndWarriors", "wizards-and-warriors\WizardsAndWarriors.csproj", "{DBB431CC-022F-4F47-89ED-01BB356F3D95}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookingUpForBeauty", "booking-up-for-beauty\BookingUpForBeauty.csproj", "{D6937B45-7C4C-4E0C-AB9E-637CD49144D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -102,5 +104,9 @@ Global
 		{DBB431CC-022F-4F47-89ED-01BB356F3D95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBB431CC-022F-4F47-89ED-01BB356F3D95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBB431CC-022F-4F47-89ED-01BB356F3D95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6937B45-7C4C-4E0C-AB9E-637CD49144D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6937B45-7C4C-4E0C-AB9E-637CD49144D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6937B45-7C4C-4E0C-AB9E-637CD49144D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6937B45-7C4C-4E0C-AB9E-637CD49144D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
