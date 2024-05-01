@@ -65,6 +65,14 @@ Run the tests with:
 dotnet test EXERCISE_DIRECTORY
 ```
 
+## How to Format Code
+
+It is possible to ensure the code formatting is consistent with:
+
+```bash
+dotnet format EXERCISE_DIRECTORY
+```
+
 ## Submit Solutions
 
 Once all tests are passing, submit a solution with:
