@@ -35,6 +35,12 @@ Each directory contains an exercise which was downloaded with:
 exercism download --track=java --exercise=NAME
 ```
 
+It was then included in the Gradle composite build with:
+
+```bash
+echo 'includeBuild("EXERCISE_DIRECTORY")' >> settings.gradle.kts
+```
+
 ## How to Test A Solution
 
 Before submitting a solution, ensure it's working by making all its tests pass.
@@ -42,7 +48,7 @@ Before submitting a solution, ensure it's working by making all its tests pass.
 Run the tests with:
 
 ```bash
-gradle -p EXERCISE_DIRECTORY test
+./gradlew :EXERCISE_DIRECTORY:test
 ```
 
 ## Submit Solutions
