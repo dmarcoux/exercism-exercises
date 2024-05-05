@@ -8,3 +8,4 @@
 rootProject.name = "java"
 includeBuild("hello-world")
 includeBuild("lasagna")
+includeBuild("log-levels")
