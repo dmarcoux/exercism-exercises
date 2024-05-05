@@ -25,6 +25,10 @@ mkShell {
 
     # Remove duplicate commands from Bash shell command history
     export HISTCONTROL=ignoreboth:erasedups
+
+    # Do not pollute $HOME with config files
+    export DOTNET_CLI_HOME="~/.local/share/dotnet";
+    export NUGET_PACKAGES="~/.cache/NuGetPackages";
   '';
 
   # Without this, there are warnings about LANG, LC_ALL and locales.
