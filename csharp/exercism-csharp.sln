@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pangram", "pangram\Pangram.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Isogram", "isogram\Isogram.csproj", "{698B4DA5-4B5F-4E7D-AD10-6420E3A48043}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leap", "leap\Leap.csproj", "{90155235-A290-4879-BF58-B5C609A040C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -126,5 +128,9 @@ Global
 		{698B4DA5-4B5F-4E7D-AD10-6420E3A48043}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{698B4DA5-4B5F-4E7D-AD10-6420E3A48043}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{698B4DA5-4B5F-4E7D-AD10-6420E3A48043}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90155235-A290-4879-BF58-B5C609A040C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90155235-A290-4879-BF58-B5C609A040C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90155235-A290-4879-BF58-B5C609A040C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90155235-A290-4879-BF58-B5C609A040C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
