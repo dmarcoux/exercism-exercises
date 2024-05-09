@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle", "triangle\Triang
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DifferenceOfSquares", "difference-of-squares\DifferenceOfSquares.csproj", "{73B7D367-9E53-423E-ABBC-66F710FE1BB1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootballMatchReports", "football-match-reports\FootballMatchReports.csproj", "{CE889AFE-BF56-4A3C-8E17-24C47569A679}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -150,5 +152,9 @@ Global
 		{73B7D367-9E53-423E-ABBC-66F710FE1BB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73B7D367-9E53-423E-ABBC-66F710FE1BB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73B7D367-9E53-423E-ABBC-66F710FE1BB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE889AFE-BF56-4A3C-8E17-24C47569A679}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE889AFE-BF56-4A3C-8E17-24C47569A679}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE889AFE-BF56-4A3C-8E17-24C47569A679}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE889AFE-BF56-4A3C-8E17-24C47569A679}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
