@@ -22,6 +22,9 @@ in
       # CLI to easily create Spring-based applications
       spring-boot-cli
 
+      # Timezones
+      tzdata
+
       # Locales
       glibcLocales
     ];

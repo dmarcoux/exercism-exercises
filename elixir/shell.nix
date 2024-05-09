@@ -15,6 +15,8 @@ in
       erlang.hex
       # The build tool for Erlang
       rebar3
+      # Timezones
+      tzdata
       # Locales
       glibcLocales
     ];
