@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DifferenceOfSquares", "diff
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootballMatchReports", "football-match-reports\FootballMatchReports.csproj", "{CE889AFE-BF56-4A3C-8E17-24C47569A679}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeautySalonGoesGlobal", "beauty-salon-goes-global\BeautySalonGoesGlobal.csproj", "{64308B55-0814-4CA3-A3E9-5572C60CFEBB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -156,5 +158,9 @@ Global
 		{CE889AFE-BF56-4A3C-8E17-24C47569A679}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE889AFE-BF56-4A3C-8E17-24C47569A679}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE889AFE-BF56-4A3C-8E17-24C47569A679}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64308B55-0814-4CA3-A3E9-5572C60CFEBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64308B55-0814-4CA3-A3E9-5572C60CFEBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64308B55-0814-4CA3-A3E9-5572C60CFEBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64308B55-0814-4CA3-A3E9-5572C60CFEBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
