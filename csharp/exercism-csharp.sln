@@ -59,6 +59,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogsLogsLogs", "logs-logs-l
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InternationalCallingConnoisseur", "international-calling-connoisseur\InternationalCallingConnoisseur.csproj", "{29DEB3E7-702C-4952-B96A-FEEB0CF966EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorConundrum", "calculator-conundrum\CalculatorConundrum.csproj", "{3E40CC93-59F1-4EE5-82DD-CDA0EEFA49F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -180,5 +182,9 @@ Global
 		{29DEB3E7-702C-4952-B96A-FEEB0CF966EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29DEB3E7-702C-4952-B96A-FEEB0CF966EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29DEB3E7-702C-4952-B96A-FEEB0CF966EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E40CC93-59F1-4EE5-82DD-CDA0EEFA49F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E40CC93-59F1-4EE5-82DD-CDA0EEFA49F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E40CC93-59F1-4EE5-82DD-CDA0EEFA49F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E40CC93-59F1-4EE5-82DD-CDA0EEFA49F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
