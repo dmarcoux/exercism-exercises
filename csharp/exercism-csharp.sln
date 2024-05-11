@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeautySalonGoesGlobal", "be
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TracksOnTracksOnTracks", "tracks-on-tracks-on-tracks\TracksOnTracksOnTracks.csproj", "{4E3349D9-0629-4139-BC9A-044E6327D749}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogsLogsLogs", "logs-logs-logs\LogsLogsLogs.csproj", "{17304EC1-0541-495C-8875-39AFE1F65EF6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -168,5 +170,9 @@ Global
 		{4E3349D9-0629-4139-BC9A-044E6327D749}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E3349D9-0629-4139-BC9A-044E6327D749}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E3349D9-0629-4139-BC9A-044E6327D749}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17304EC1-0541-495C-8875-39AFE1F65EF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17304EC1-0541-495C-8875-39AFE1F65EF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17304EC1-0541-495C-8875-39AFE1F65EF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17304EC1-0541-495C-8875-39AFE1F65EF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
