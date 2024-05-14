@@ -67,6 +67,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighSchoolSweethearts", "hi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HyperOptimizedTelemetry", "hyper-optimized-telemetry\HyperOptimizedTelemetry.csproj", "{24F7BF50-60A4-4B24-8064-37D7BE72807A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeighingMachine", "weighing-machine\WeighingMachine.csproj", "{565008FC-8FFD-4E8D-965C-DFB874C4CAE5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -204,5 +206,9 @@ Global
 		{24F7BF50-60A4-4B24-8064-37D7BE72807A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24F7BF50-60A4-4B24-8064-37D7BE72807A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24F7BF50-60A4-4B24-8064-37D7BE72807A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{565008FC-8FFD-4E8D-965C-DFB874C4CAE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{565008FC-8FFD-4E8D-965C-DFB874C4CAE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{565008FC-8FFD-4E8D-965C-DFB874C4CAE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{565008FC-8FFD-4E8D-965C-DFB874C4CAE5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
