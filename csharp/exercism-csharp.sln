@@ -69,6 +69,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HyperOptimizedTelemetry", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeighingMachine", "weighing-machine\WeighingMachine.csproj", "{565008FC-8FFD-4E8D-965C-DFB874C4CAE5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteControlCompetition", "remote-control-competition\RemoteControlCompetition.csproj", "{930CCF0B-F813-463D-ABA8-8B94361194FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -210,5 +212,9 @@ Global
 		{565008FC-8FFD-4E8D-965C-DFB874C4CAE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{565008FC-8FFD-4E8D-965C-DFB874C4CAE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{565008FC-8FFD-4E8D-965C-DFB874C4CAE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{930CCF0B-F813-463D-ABA8-8B94361194FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{930CCF0B-F813-463D-ABA8-8B94361194FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{930CCF0B-F813-463D-ABA8-8B94361194FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{930CCF0B-F813-463D-ABA8-8B94361194FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
