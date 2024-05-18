@@ -79,6 +79,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Faceid2", "faceid-2\Faceid2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheWeatherInDeather", "the-weather-in-deather\TheWeatherInDeather.csproj", "{F3F8E0FE-1A8F-47B7-800D-089CE8A79DD0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeveloperPrivileges", "developer-privileges\DeveloperPrivileges.csproj", "{ABE0EFD2-FB30-4B23-BF5F-313E2B610400}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -240,5 +242,9 @@ Global
 		{F3F8E0FE-1A8F-47B7-800D-089CE8A79DD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3F8E0FE-1A8F-47B7-800D-089CE8A79DD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3F8E0FE-1A8F-47B7-800D-089CE8A79DD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABE0EFD2-FB30-4B23-BF5F-313E2B610400}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABE0EFD2-FB30-4B23-BF5F-313E2B610400}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABE0EFD2-FB30-4B23-BF5F-313E2B610400}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABE0EFD2-FB30-4B23-BF5F-313E2B610400}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
