@@ -77,6 +77,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttackOfTheTrolls", "attack
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Faceid2", "faceid-2\Faceid2.csproj", "{DF3F690E-7B47-419B-932E-4DFA5EC0D932}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheWeatherInDeather", "the-weather-in-deather\TheWeatherInDeather.csproj", "{F3F8E0FE-1A8F-47B7-800D-089CE8A79DD0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -234,5 +236,9 @@ Global
 		{DF3F690E-7B47-419B-932E-4DFA5EC0D932}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF3F690E-7B47-419B-932E-4DFA5EC0D932}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF3F690E-7B47-419B-932E-4DFA5EC0D932}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3F8E0FE-1A8F-47B7-800D-089CE8A79DD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3F8E0FE-1A8F-47B7-800D-089CE8A79DD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3F8E0FE-1A8F-47B7-800D-089CE8A79DD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3F8E0FE-1A8F-47B7-800D-089CE8A79DD0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
