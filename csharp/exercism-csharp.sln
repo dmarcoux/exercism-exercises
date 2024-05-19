@@ -107,6 +107,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoFer", "two-fer\TwoFer.cs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gigasecond", "gigasecond\Gigasecond.csproj", "{C09D4CD6-EBAF-4AC1-A2C9-B100046A81DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResistorColor", "resistor-color\ResistorColor.csproj", "{295D7A94-AF90-4EC7-B898-FF05564EB53C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -324,5 +326,9 @@ Global
 		{C09D4CD6-EBAF-4AC1-A2C9-B100046A81DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C09D4CD6-EBAF-4AC1-A2C9-B100046A81DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C09D4CD6-EBAF-4AC1-A2C9-B100046A81DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{295D7A94-AF90-4EC7-B898-FF05564EB53C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{295D7A94-AF90-4EC7-B898-FF05564EB53C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{295D7A94-AF90-4EC7-B898-FF05564EB53C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{295D7A94-AF90-4EC7-B898-FF05564EB53C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
