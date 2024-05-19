@@ -83,6 +83,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeveloperPrivileges", "deve
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LandGrabInSpace", "land-grab-in-space\LandGrabInSpace.csproj", "{2755E258-DA1E-42E4-9209-1FAEC9230F66}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteControlCleanup", "remote-control-cleanup\RemoteControlCleanup.csproj", "{07AE48F0-60D5-4FE6-BA76-038CB6B24F39}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -252,5 +254,9 @@ Global
 		{2755E258-DA1E-42E4-9209-1FAEC9230F66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2755E258-DA1E-42E4-9209-1FAEC9230F66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2755E258-DA1E-42E4-9209-1FAEC9230F66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07AE48F0-60D5-4FE6-BA76-038CB6B24F39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07AE48F0-60D5-4FE6-BA76-038CB6B24F39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07AE48F0-60D5-4FE6-BA76-038CB6B24F39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07AE48F0-60D5-4FE6-BA76-038CB6B24F39}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
