@@ -105,6 +105,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrmInOneGo", "orm-in-one-go
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoFer", "two-fer\TwoFer.csproj", "{F9D06E1A-151D-4FD9-9445-34F77E25DC1A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gigasecond", "gigasecond\Gigasecond.csproj", "{C09D4CD6-EBAF-4AC1-A2C9-B100046A81DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -318,5 +320,9 @@ Global
 		{F9D06E1A-151D-4FD9-9445-34F77E25DC1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9D06E1A-151D-4FD9-9445-34F77E25DC1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9D06E1A-151D-4FD9-9445-34F77E25DC1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C09D4CD6-EBAF-4AC1-A2C9-B100046A81DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C09D4CD6-EBAF-4AC1-A2C9-B100046A81DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C09D4CD6-EBAF-4AC1-A2C9-B100046A81DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C09D4CD6-EBAF-4AC1-A2C9-B100046A81DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
