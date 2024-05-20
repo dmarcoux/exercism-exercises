@@ -113,6 +113,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceAge", "space-age\Space
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighScores", "high-scores\HighScores.csproj", "{2F395CDE-6641-4A00-B001-05B2D47C87C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hamming", "hamming\Hamming.csproj", "{C7996C6D-559B-42E1-811E-F645ACB62EB4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -342,5 +344,9 @@ Global
 		{2F395CDE-6641-4A00-B001-05B2D47C87C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F395CDE-6641-4A00-B001-05B2D47C87C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F395CDE-6641-4A00-B001-05B2D47C87C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7996C6D-559B-42E1-811E-F645ACB62EB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7996C6D-559B-42E1-811E-F645ACB62EB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7996C6D-559B-42E1-811E-F645ACB62EB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7996C6D-559B-42E1-811E-F645ACB62EB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
