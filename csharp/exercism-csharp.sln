@@ -119,6 +119,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NucleotideCount", "nucleoti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotName", "robot-name\RobotName.csproj", "{383B7508-4EFD-448D-BA74-273F724D6D7B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Allergies", "allergies\Allergies.csproj", "{C6E5C067-F4DD-4293-9C16-99D0ABBA9431}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -360,5 +362,9 @@ Global
 		{383B7508-4EFD-448D-BA74-273F724D6D7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{383B7508-4EFD-448D-BA74-273F724D6D7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{383B7508-4EFD-448D-BA74-273F724D6D7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6E5C067-F4DD-4293-9C16-99D0ABBA9431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6E5C067-F4DD-4293-9C16-99D0ABBA9431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6E5C067-F4DD-4293-9C16-99D0ABBA9431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6E5C067-F4DD-4293-9C16-99D0ABBA9431}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
