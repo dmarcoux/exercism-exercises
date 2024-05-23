@@ -125,6 +125,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradeSchool", "grade-school
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grains", "grains\Grains.csproj", "{FCFDBBFD-9AAD-4A89-B8AB-5309ABC3572C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollatzConjecture", "collatz-conjecture\CollatzConjecture.csproj", "{F9721D8D-B318-46EF-941F-858628EBB131}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -378,5 +380,9 @@ Global
 		{FCFDBBFD-9AAD-4A89-B8AB-5309ABC3572C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCFDBBFD-9AAD-4A89-B8AB-5309ABC3572C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCFDBBFD-9AAD-4A89-B8AB-5309ABC3572C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9721D8D-B318-46EF-941F-858628EBB131}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9721D8D-B318-46EF-941F-858628EBB131}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9721D8D-B318-46EF-941F-858628EBB131}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9721D8D-B318-46EF-941F-858628EBB131}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
