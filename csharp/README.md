@@ -23,8 +23,7 @@ nix-shell --pure
 Be sure to configure the Exercism CLI before proceeding.
 
 ```bash
-# My API token can be found at https://exercism.org/settings/api_cli
-exercism configure --workspace "~/projets/exercism-exercises" --token=MY_API_TOKEN
+exercism configure --workspace "~/projets/exercism-exercises" --token="$(op read 'op://Private/exercism.org/API Token')"
 ```
 
 ## Setup Solution (.sln) File
