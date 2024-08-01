@@ -131,6 +131,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResistorColorDuo", "resisto
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecretHandshake", "secret-handshake\SecretHandshake.csproj", "{76989DAA-FA75-4D38-A414-A2E5AC01C921}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotationalCipher", "rotational-cipher\RotationalCipher.csproj", "{FA16B736-7356-440E-A957-EEEBD49B4311}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -396,5 +398,9 @@ Global
 		{76989DAA-FA75-4D38-A414-A2E5AC01C921}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76989DAA-FA75-4D38-A414-A2E5AC01C921}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76989DAA-FA75-4D38-A414-A2E5AC01C921}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA16B736-7356-440E-A957-EEEBD49B4311}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA16B736-7356-440E-A957-EEEBD49B4311}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA16B736-7356-440E-A957-EEEBD49B4311}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA16B736-7356-440E-A957-EEEBD49B4311}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
