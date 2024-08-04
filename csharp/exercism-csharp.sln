@@ -139,6 +139,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clock", "clock\Clock.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bob", "bob\Bob.csproj", "{EFE097F3-F9FC-4D76-9966-9217BB202D27}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchingBrackets", "matching-brackets\MatchingBrackets.csproj", "{053A5D3A-B078-4FFA-A421-90E529E656BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -420,5 +422,9 @@ Global
 		{EFE097F3-F9FC-4D76-9966-9217BB202D27}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EFE097F3-F9FC-4D76-9966-9217BB202D27}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EFE097F3-F9FC-4D76-9966-9217BB202D27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{053A5D3A-B078-4FFA-A421-90E529E656BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{053A5D3A-B078-4FFA-A421-90E529E656BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{053A5D3A-B078-4FFA-A421-90E529E656BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{053A5D3A-B078-4FFA-A421-90E529E656BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
