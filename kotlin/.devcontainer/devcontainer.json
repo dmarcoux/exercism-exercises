@@ -1,0 +1,16 @@
+// For format details, see https://aka.ms/devcontainer.json. For config options, see the
+// README at: https://github.com/devcontainers/templates/tree/main/src/java
+{
+	"name": "Exercism - Kotlin",
+	// https://hub.docker.com/r/microsoft/devcontainers-java
+	"image": "mcr.microsoft.com/devcontainers/java:1-21-bookworm",
+
+	"features": {
+		// Install Kotlin in the devcontainer.
+		// https://github.com/devcontainers-extra/features/tree/main/src/kotlin-sdkman
+		"ghcr.io/devcontainers-extra/features/kotlin-sdkman:2": {
+			"version": "2.1.10",
+			"jdkVersion": "21", // Same as the image above
+		},
+	}
+}
