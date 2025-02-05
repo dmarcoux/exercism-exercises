@@ -1,7 +1,7 @@
 object Acronym {
     fun generate(phrase: String) : String {
         return phrase.split(" ", "-")
-            .mapNotNull { word -> word.dropWhile { !it.isLetter() }.firstOrNull()?.uppercase() }
+            .mapNotNull { it.find(Char::isLetter)?.uppercase() }
             .joinToString("")
     }
 }
