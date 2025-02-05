@@ -9,3 +9,4 @@ rootProject.name = "exercism-kotlin"
 includeBuild("hello-world")
 includeBuild("acronym")
 includeBuild("armstrong-numbers")
+includeBuild("circular-buffer")
